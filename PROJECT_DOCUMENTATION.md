@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-[Provide a brief summary of the project, including the theme and objectives.]
+In this project we created a simple website that generates quotes using an API. 
 
 ## Team Members:
 
@@ -20,6 +20,6 @@
 
 -   Was responsible for [specific tasks], focusing on [specific HTML elements].
 
-### Name 3:
+### Name 3: Ashley
 
--   Handled [specific sections], covering [specific topics or features].
+-   Set up the js.script for the project
