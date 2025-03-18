@@ -1,8 +1,8 @@
 # Project Documentation
 
 ## Project Overview
-
 This is a Random Quote Generator that fetches quotes from an API and displays them dynamically. If the API is unavailable, it provides fallback quotes. The UI is designed for a smooth experience with animations.
+
 
 ## Team Members:
 
@@ -21,5 +21,5 @@ This is a Random Quote Generator that fetches quotes from an API and displays th
 -   Styled the webpage using CSS and improved UX with animations.
 
 ### Name 3: Ashley Rohleder
-
 -   Wrote JavaScript for fetching quotes, handling errors, and local fallback.
+
